@@ -1,0 +1,63 @@
+{
+  "name": "protocol-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "highcharts": "^10.1.0",
+    "highcharts-react-official": "^3.1.0",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.3",
+    "node-sass": "5.0.0",
+    "rc-time-picker": "^3.7.3",
+    "react": "^17.0.2",
+    "react-awesome-audio": "^1.1.0",
+    "react-bootstrap": "^2.0.0",
+    "react-dom": "^17.0.2",
+    "react-highcharts": "^16.1.0",
+    "react-json-table": "^0.1.1",
+    "react-modern-calendar-datepicker": "^3.1.6",
+    "react-query": "^3.39.0",
+    "react-redux": "^7.2.6",
+    "react-router-dom": "^6.2.1",
+    "react-select": "^5.3.2",
+    "web-vitals": "^1.0.1"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "@types/jest": "^26.0.15",
+    "@types/lodash": "^4.14.176",
+    "@types/node": "^12.0.0",
+    "@types/react": "^17.0.0",
+    "@types/react-dom": "^17.0.10",
+    "@types/react-router-dom": "^5.3.2",
+    "react-scripts": "4.0.3",
+    "typescript": "^4.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
